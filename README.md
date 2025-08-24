@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Thiago Rodrigues
+#🧑🏾‍💻 Thiago Rodrigues
 
 **`Desenvolvedor back-end`**
 
